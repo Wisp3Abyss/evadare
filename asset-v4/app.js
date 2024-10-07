@@ -42,7 +42,7 @@ var app = new (function () {
       { name: "17_ignited_samara", color: "CD9459", uniqsnd: !1 },
       { name: "18_phantom_rafe", color: "CD9459", uniqsnd: !1 },
       { name: "19_sam", color: "CD9459", uniqsnd: !1 },
-      { name: "20_ø·ø ̈ùšù„ø© ø£øoù†ùšø©", color: "61141B", uniqsnd: !1 },
+      { name: "20_DarkJacko", color: "61141B", uniqsnd: !1 },
     ]),
     (this.bonusarray = [
       {
